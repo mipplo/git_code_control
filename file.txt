@@ -6,3 +6,9 @@ total 8
 lala
 kkk
 new branch hello
+.
+..
+file.txt
+.git
+mj
+read.txt
